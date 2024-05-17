@@ -1,8 +1,7 @@
-Here's the updated README file with the measurement parameters and possible analysis on those parameters:
 ---
-**Diabetes Health Prediction Project**
+<i>**Diabetes Health Prediction Project**</i>
 
-[image](Images/dia.jfif)
+[image](Images/medium.jpg)
 
 **Overview**
 This project aims to predict the prognosis and likelihood of developing cardiovascular events, hyperglycemic episodes exacerbated by infection, and the likelihood of catching communicable diseases in diabetic patients. By identifying key factors influencing these outcomes, the project aims to assist healthcare professionals in providing targeted interventions and improving patient outcomes.
