@@ -1,4 +1,4 @@
-<span style="font-size:1000px">**_Diabetes Health Prediction Project_**</span>
+<span style="font-size:27px;">**_Diabetes Health Prediction Project_**</span>
 
 [image](Images/medium.jpg)
 
