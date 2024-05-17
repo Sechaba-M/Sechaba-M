@@ -95,7 +95,6 @@ To reproduce the results of this project, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the Jupyter notebooks in the specified order to execute the data preprocessing, EDA, feature engineering, model training, and evaluation.
-4. [Include any additional instructions or considerations for running the project]
 
 ## Contributors
 - Sechaba Machaba
