@@ -1,6 +1,6 @@
-<span style="font-size:27px;">**_Diabetes Health Prediction Project_**</span>
+# Diabetes Health Prediction Project 
 
-[image](Images/medium.jpg)
+![image](Images/medium.jpg)
 
 **Overview**
 This project aims to predict the prognosis and likelihood of developing cardiovascular events, hyperglycemic episodes exacerbated by infection, and the likelihood of catching communicable diseases in diabetic patients. By identifying key factors influencing these outcomes, the project aims to assist healthcare professionals in providing targeted interventions and improving patient outcomes.
