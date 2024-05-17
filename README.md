@@ -1,5 +1,5 @@
 ---
-<i>**Diabetes Health Prediction Project**</i>
+***Diabetes Health Prediction Project***
 
 [image](Images/medium.jpg)
 
