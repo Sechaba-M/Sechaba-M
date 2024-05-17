@@ -1,6 +1,6 @@
 # Stroke Prediction
 
-![im](Sechaba-M-Projects/Images/dataset-card.jpg)
+<img src= "../Images/dataset-card.jpg" width ="250" height ="240">
 
 ### Overview
 This repository contains a machine learning project focused on predicting the likelihood of stroke occurrence in patients based on various parameters. The project utilizes a dataset comprising features such as gender, age, hypertension, heart disease, marital status, work type, residence type, average glucose level, BMI, and smoking status to build a predictive model.
