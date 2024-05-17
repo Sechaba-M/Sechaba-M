@@ -1,5 +1,5 @@
 # Stroke Prediction
-
+[image]
 ### Overview
 This repository contains a machine learning project focused on predicting the likelihood of stroke occurrence in patients based on various parameters. The project utilizes a dataset comprising features such as gender, age, hypertension, heart disease, marital status, work type, residence type, average glucose level, BMI, and smoking status to build a predictive model.
 
