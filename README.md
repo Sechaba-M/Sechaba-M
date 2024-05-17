@@ -1,5 +1,4 @@
----
-**Diabetes Health Prediction Project**
+**_Diabetes Health Prediction Project_**
 
 [image](Images/medium.jpg)
 
